@@ -34,13 +34,15 @@ pip install -r requirements.txt
 
 Algunas librerias pueden no estar declaradas en el requirements.txt, por lo que se deben instalar manualmente.
 
-````bash
+
 
 4. Correr aplicación:
 
 ```bash
+
 python api.py
-````
+
+`````
 
 ## Uso
 
