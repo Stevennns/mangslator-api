@@ -14,5 +14,4 @@ __pycache__/
 # Dependency directories
 env/
 lib/
-best_old2.pt
-best_old.pt
+*.pt
